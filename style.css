@@ -1,4 +1,20 @@
-h1
+h3
 {
-    colour:red;
+    text-align: center;
+}
+tbody
+{
+    text-align: center;
+}
+table
+{
+    border-collapse:collaps;
+
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.ok
+{
+    background-color: grey
 }
